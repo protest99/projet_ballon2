@@ -1,0 +1,21 @@
+.maquette{
+    text-align: center;
+    background-color:#CDFB0A ;
+}
+
+footer{
+    background-color: #21460A;
+    text-align: center;
+}
+
+body{
+    background-color:#287C00 ;
+}
+h1{
+    text-align: center;
+    text-shadow: #CDFB0A;
+    background-color: #CDFB0A;
+    font-family: "Lucida Console";
+    color: aliceblue;
+    
+}
